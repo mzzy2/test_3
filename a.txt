@@ -1,3 +1,1 @@
-apple
-orange
-banna
+안녕
